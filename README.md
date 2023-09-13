@@ -1,4 +1,4 @@
-WAM-CHECK
+CHECK
 =====================
 Used to check that the path is a mount point
 
@@ -6,8 +6,8 @@ Used to check that the path is a mount point
 ## Install
 
 ```
-git clone https://github.com/wamland-team/wam-check-mount
-cd wam-check-mount/
+git clone git@github.com:120dev/check-health.git
+cd check-health/
 ```
 
 #### Setup
